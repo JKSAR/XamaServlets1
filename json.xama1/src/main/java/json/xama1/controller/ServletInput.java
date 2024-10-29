@@ -89,7 +89,7 @@ public class ServletInput extends HttpServlet {
 		//pr.write(String.valueOf(l_mesaAux));
 		
 		String l_msg1 = "<h1 style='text-align: center;'>&nbsp;</h1>";
-		String l_msg2 = "<h1 style='text-align: center;'><span style='font-family:verdana,geneva,sans-serif'><span style='font-size:36px'>Gar&ccedil;on &aacute; Caminho!</span></span></h1>";
+		String l_msg2 = "<h1 style='text-align: center;'><span style='font-family:verdana,geneva,sans-serif'><span style='font-size:56px'>Gar&ccedil;on &aacute; Caminho!</span></span></h1>";
 		
 		pr.write(l_msg1);
 		pr.write(l_msg2);
